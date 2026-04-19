@@ -1,0 +1,12 @@
+{
+  "name": "obsidian-copilot-github",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "esbuild main.ts --bundle --outfile=main.js --format=cjs --watch",
+    "build": "esbuild main.ts --bundle --outfile=main.js --format=cjs"
+  },
+  "devDependencies": {
+    "esbuild": "latest",
+    "obsidian": "latest"
+  }
+}

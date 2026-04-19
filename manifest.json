@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-copilot-github",
+  "name": "Copilot + GitHub Integration",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Integriert GitHub und Copilot in Obsidian. Unterstützt Repo-Sync, Copilot-Prompts und KI-gestützte Notizen.",
+  "author": "Blackhole",
+  "authorUrl": "https://stecker.it",
+  "isDesktopOnly": false
+}
